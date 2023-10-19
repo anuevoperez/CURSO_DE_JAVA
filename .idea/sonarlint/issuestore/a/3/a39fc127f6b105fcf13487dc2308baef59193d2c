@@ -1,0 +1,14 @@
+
+l
+java:S1192"ODefine a constant instead of duplicating this literal " es mayor que " 5 times.(æ™Ç²8—Ì«´´1
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éå£#8—Ì«´´1
+7
+java:S1220""Move this file to a named package.8—Ì«´´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ™Ç²8—Ì«´´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Îïà˜ÿÿÿÿÿ8—Ì«´´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›Ü«ıÿÿÿÿ8—Ì«´´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ôâè8—Ì«´´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(üªËªşÿÿÿÿ8—Ì«´´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡üéËùÿÿÿÿ8—Ì«´´1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(“êƒ8—Ì«´´1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(‹Â°şÿÿÿÿ8–—®´´1

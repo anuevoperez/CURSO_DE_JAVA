@@ -1,0 +1,20 @@
+
+n
+java:S1192"LDefine a constant instead of duplicating this literal "Resultado: " 4 times.(¿Õƒ£ÿÿÿÿÿ8©¿Ö¹´1
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Íï†
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÏÆßøÿÿÿÿ8©¿Ö¹´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤Í½Öøÿÿÿÿ8©¿Ö¹´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×ôğøÿÿÿÿ8©¿Ö¹´1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÄ­,8¹¿Ö¹´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚±Ë±ıÿÿÿÿ8¹¿Ö¹´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îµ®éøÿÿÿÿ8¹¿Ö¹´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÕéïŞ8¹¿Ö¹´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜ì¢8¹¿Ö¹´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿Õƒ£ÿÿÿÿÿ8¹¿Ö¹´1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Š¥Óí8¹¿Ö¹´1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(‘’á8¹¿Ö¹´1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(†¿¦·şÿÿÿÿ8¹¿Ö¹´1
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(º¿Ÿ8¹¿Ö¹´1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ì†Œ³şÿÿÿÿ8¹¿Ö¹´1

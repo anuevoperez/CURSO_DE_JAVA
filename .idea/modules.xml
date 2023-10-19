@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projects.iml" filepath="$PROJECT_DIR$/.idea/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01_HelloWorld/_01_HelloWorld.iml" filepath="$PROJECT_DIR$/_01_HelloWorld/_01_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02_Primitivos/_02_Primitivos.iml" filepath="$PROJECT_DIR$/_02_Primitivos/_02_Primitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_Strings/_03_Strings.iml" filepath="$PROJECT_DIR$/_03_Strings/_03_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_Operadores/_04_Operadores.iml" filepath="$PROJECT_DIR$/_04_Operadores/_04_Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05_Condicionales_y_bucles/_05_Condicionales_y_bucles.iml" filepath="$PROJECT_DIR$/_05_Condicionales_y_bucles/_05_Condicionales_y_bucles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06_Arrays/_06_Arrays.iml" filepath="$PROJECT_DIR$/_06_Arrays/_06_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07_Scanner/_07_Scanner.iml" filepath="$PROJECT_DIR$/_07_Scanner/_07_Scanner.iml" />
+    </modules>
+  </component>
+</project>

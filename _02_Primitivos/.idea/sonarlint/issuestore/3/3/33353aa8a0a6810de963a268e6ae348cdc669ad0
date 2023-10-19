@@ -1,0 +1,37 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É¥ù¶ùÿÿÿÿ8Àì±À³1
+7
+java:S1220""Move this file to a named package.8Ş¨ú¾³1
+c
+java:S18543"ARemove this useless assignment to local variable "numeroVarLong".(¨šô¿ıÿÿÿÿ8ë¨ú¾³1
+_
+java:S18540"=Remove this useless assignment to local variable "numeroVar".(¶µ™üÿÿÿÿ8ë¨ú¾³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óˆÆ˜úÿÿÿÿ8ì¨ú¾³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑœÁ’úÿÿÿÿ8í¨ú¾³1
+T	java:S106	"9Replace this use of System.out or System.err by a logger.(å‡Üi8í¨ú¾³1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(¹İª‘8í¨ú¾³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¦Çâ8í¨ú¾³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8í¨ú¾³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Åë÷ë8í¨ú¾³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(º’“Äıÿÿÿÿ8î¨ú¾³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¶¬¤8î¨ú¾³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àû–ìşÿÿÿÿ8î¨ú¾³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ó§ë‚8î¨ú¾³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8î¨ú¾³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù¯•¨øÿÿÿÿ8î¨ú¾³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÏâñŠ8ï¨ú¾³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.( Òï‡8ï¨ú¾³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷«¦´şÿÿÿÿ8ï¨ú¾³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(õı½ùÿÿÿÿ8ï¨ú¾³1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ï¨ú¾³1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÊÓùã8ï¨ú¾³1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(½¡²¡8ï¨ú¾³1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¤«Ê÷8ğ¨ú¾³1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Òå¦8ğ¨ú¾³1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(æè»Óıÿÿÿÿ8ğ¨ú¾³1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ğ¨ú¾³1
+P
+java:S14810".Remove this unused "numeroVar" local variable.(¶µ™üÿÿÿÿ8ğ¨ú¾³1
+T
+java:S14813"2Remove this unused "numeroVarLong" local variable.(¨šô¿ıÿÿÿÿ8îÎü¾³1
